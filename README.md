@@ -9,9 +9,4 @@ The MoveNet neural network is loaded on Android device and the app performs live
   <figcaption>*Recording of the app while fixing handstand posture*</figcaption>
 </figure>
 
-![posture-fix]()*My caption*
-
-
-
-
 This concept will be extended to other calisthenics moves.
