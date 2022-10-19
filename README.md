@@ -1,7 +1,9 @@
 # Calithenics-Posture-Fixer
 Posture fixer for better calisthenics performance
 
+The MoveNet neural network is loaded on Android device and the app performs live posture fix on the device's camera.
 
+*Here is an example of a posture fix for handstand*
+![posture-fix](https://user-images.githubusercontent.com/44348741/196702701-1dabc02f-d5fe-4153-bbe7-42d511f43e4b.gif)
 
-https://user-images.githubusercontent.com/44348741/196701869-77dbca46-e9b8-484b-8d43-0461988007ae.mp4
-
+This concept will be extended to other calisthenics moves.
