@@ -1,4 +1,4 @@
-# Calithenics-Posture-Fixer
+# Calisthenics-Posture-Fixer
 Posture fixer for better calisthenics performance
 
 The MoveNet neural network is loaded on Android device and the app performs live posture fix using the device's camera input.
