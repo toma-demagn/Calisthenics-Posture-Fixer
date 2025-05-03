@@ -66,7 +66,7 @@ def detect_wheels_and_pose_live():
         return
 
     collected_circles = []
-    frames_to_collect = 300
+    frames_to_collect = 15
     collected_frames = 0
     locked_circles = None
 
