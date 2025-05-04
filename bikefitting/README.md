@@ -1,6 +1,6 @@
 # Bikefitting Pose and Wheel Alignment Tool
 
-This project is a simple real-time bike fitting assistant using a webcam. It detects the user's leg pose and the positions of bike wheels, then analyzes the knee angle and how perpendicular the leg is to the wheels.
+This project is a simple real-time bike fitting assistant using a webcam. It detects the user's leg pose and the positions of bike wheels, then analyzes the knee angle and the angle between shin and wheel line.
 
 ![Demo](asset/bikefitting.gif)
 
@@ -37,15 +37,6 @@ See `requirements.txt` for all dependencies.
 * Ensure you have a webcam connected.
 * Good lighting improves pose and edge detection.
 * Works best when the entire leg and bike wheels are visible in the frame.
-
-## File Structure
-
-```
-asset/
-├── bikefitting.gif  # Demo gif
-main.py              # Main application
-requirements.txt     # Python dependencies
-```
 
 ## License
 

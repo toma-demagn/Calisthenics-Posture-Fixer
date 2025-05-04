@@ -20,7 +20,7 @@ A mobile application built with Android and Posenet to detect and correct user p
 
 ### 🚴‍♂️ Python – Bikefitting Pose and Wheel Alignment Tool
 
-A lightweight desktop tool using webcam input to help users align their leg and wheels correctly on a bike. It calculates knee joint angle and the alignment of the leg relative to the bike frame.
+A lightweight desktop tool using webcam input to help perform bikefitting. It detects the wheels of the bike and performs posture estimation to generate feedback.
 
 ![Demo](bikefitting/asset/bikefitting.gif)
 
